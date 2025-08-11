@@ -1,4 +1,4 @@
 # html
 html
 <br>
-author: M.Sampath Kumar
+Author: M.Sampath Kumar
